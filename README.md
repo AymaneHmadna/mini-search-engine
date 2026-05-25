@@ -1,21 +1,35 @@
 # Mini Search Engine:NLP based document retrieval system
-<table border="0" cellspacing="0" cellpadding="10" align="center">
+<table border="0" cellspacing="0" cellpadding="15" align="center">
   <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br />
-      <sub><b>Vectorization</b></sub>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br /><br />
+      <b>PYTHON</b><br />
+      <sub>Vectorisation</sub>
     </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br />
-      <sub><b>Web Interface</b></sub>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br /><br />
+      <b>FLASK</b><br />
+      <sub>Interface Web</sub>
     </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.shields.io/badge/NLP-47A141?style=for-the-badge&logo=gitbook&logoColor=white" alt="NLP" /><br />
-      <sub><b>Stemming</b></sub>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/NLTK-2C8EBB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" /><br /><br />
+      <b>NLTK</b><br />
+      <sub>Nettoyage (NLP)</sub>
     </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" /><br />
-      <sub><b>Reporting</b></sub>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/Gensim-B32134?style=for-the-badge&logo=databricks&logoColor=white" alt="Gensim" /><br /><br />
+      <b>GENSIM</b><br />
+      <sub>Modèle Word2Vec</sub>
+    </td>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/BM25-FFB000?style=for-the-badge&logo=apache&logoColor=white" alt="BM25" /><br /><br />
+      <b>RANK_BM25</b><br />
+      <sub>Score Lexical</sub>
+    </td>
+    <td align="center" valign="top" width="16%">
+      <img src="https://img.shields.io/badge/PDFPlumber-47A141?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="PDFPlumber" /><br /><br />
+      <b>PDFPLUMBER</b><br />
+      <sub>Extraction Texte</sub>
     </td>
   </tr>
 </table>
