@@ -1,4 +1,9 @@
 # Mini Search Engine:NLP based document retrieval system
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![NLTK](https://img.shields.io/badge/NLTK-113366?style=flat&logo=python&logoColor=white)](https://www.nltk.org)
+[![Gensim](https://img.shields.io/badge/Gensim-A42E2B?style=flat&logo=python&logoColor=white)](https://radimrehurek.com/gensim/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
 
 This repository contains the source code for a bilingual (French/English) document indexing and retrieval system applied to a corpus of 249 academic computer science papers. The project provides a critical evaluation comparing a traditional probabilistic lexical approach (BM25) against a semantic vector space approach (Word2Vec + Cosine Similarity).
 
