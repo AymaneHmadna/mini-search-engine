@@ -1,6 +1,7 @@
 # Mini Search Engine:NLP based document retrieval system
 ![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Web_Interface-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_Server-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5/CSS-Frontend_UI-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP_Cleaning-2C8EBB?style=for-the-badge&logo=python&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-Word2Vec_Tool-B32134?style=for-the-badge&logo=databricks&logoColor=white)
 ![Rank_BM25](https://img.shields.io/badge/Rank__BM25-Lexical_Score-FFB000?style=for-the-badge&logo=apache&logoColor=white)
