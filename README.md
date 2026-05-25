@@ -1,9 +1,24 @@
 # Mini Search Engine:NLP based document retrieval system
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![NLTK](https://img.shields.io/badge/NLTK-113366?style=flat&logo=python&logoColor=white)](https://www.nltk.org)
-[![Gensim](https://img.shields.io/badge/Gensim-A42E2B?style=flat&logo=python&logoColor=white)](https://radimrehurek.com/gensim/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
+<table border="0" cellspacing="0" cellpadding="10" align="center">
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br />
+      <sub><b>Vectorization</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br />
+      <sub><b>Web Interface</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://img.shields.io/badge/NLP-47A141?style=for-the-badge&logo=gitbook&logoColor=white" alt="NLP" /><br />
+      <sub><b>Stemming</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" /><br />
+      <sub><b>Reporting</b></sub>
+    </td>
+  </tr>
+</table>
 
 This repository contains the source code for a bilingual (French/English) document indexing and retrieval system applied to a corpus of 249 academic computer science papers. The project provides a critical evaluation comparing a traditional probabilistic lexical approach (BM25) against a semantic vector space approach (Word2Vec + Cosine Similarity).
 
