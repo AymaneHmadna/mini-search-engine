@@ -1,10 +1,10 @@
 # Mini Search Engine:NLP based document retrieval system
-![Python](https://img.shields.io/badge/Python-Langage_Principal-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Interface_Web-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-Nettoyage_(NLP)-2C8EBB?style=for-the-badge&logo=python&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-Outil_Word2Vec-B32134?style=for-the-badge&logo=databricks&logoColor=white)
-![Rank_BM25](https://img.shields.io/badge/Rank__BM25-Score_Lexical-FFB000?style=for-the-badge&logo=apache&logoColor=white)
-![PDFPlumber](https://img.shields.io/badge/PDFPlumber-Extraction_Texte-47A141?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_Interface-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP_Cleaning-2C8EBB?style=for-the-badge&logo=python&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-Word2Vec_Tool-B32134?style=for-the-badge&logo=databricks&logoColor=white)
+![Rank_BM25](https://img.shields.io/badge/Rank__BM25-Lexical_Score-FFB000?style=for-the-badge&logo=apache&logoColor=white)
+![PDFPlumber](https://img.shields.io/badge/PDFPlumber-Text_Extraction-47A141?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 This repository contains the source code for a bilingual (French/English) document indexing and retrieval system applied to a corpus of 249 academic computer science papers. The project provides a critical evaluation comparing a traditional probabilistic lexical approach (BM25) against a semantic vector space approach (Word2Vec + Cosine Similarity).
 
