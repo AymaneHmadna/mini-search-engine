@@ -1,38 +1,10 @@
 # Mini Search Engine:NLP based document retrieval system
-<table border="0" cellspacing="0" cellpadding="15" align="center">
-  <tr>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br /><br />
-      <b>PYTHON</b><br />
-      <sub>Vectorisation</sub>
-    </td>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br /><br />
-      <b>FLASK</b><br />
-      <sub>Interface Web</sub>
-    </td>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/NLTK-2C8EBB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" /><br /><br />
-      <b>NLTK</b><br />
-      <sub>Nettoyage (NLP)</sub>
-    </td>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/Gensim-B32134?style=for-the-badge&logo=databricks&logoColor=white" alt="Gensim" /><br /><br />
-      <b>GENSIM</b><br />
-      <sub>Modèle Word2Vec</sub>
-    </td>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/BM25-FFB000?style=for-the-badge&logo=apache&logoColor=white" alt="BM25" /><br /><br />
-      <b>RANK_BM25</b><br />
-      <sub>Score Lexical</sub>
-    </td>
-    <td align="center" valign="top" width="16%">
-      <img src="https://img.shields.io/badge/PDFPlumber-47A141?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="PDFPlumber" /><br /><br />
-      <b>PDFPLUMBER</b><br />
-      <sub>Extraction Texte</sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-Vectorization-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_Interface-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP_Cleaning-2C8EBB?style=for-the-badge&logo=python&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-Word2Vec_Model-B32134?style=for-the-badge&logo=databricks&logoColor=white)
+![Rank_BM25](https://img.shields.io/badge/Rank__BM25-Lexical_Score-FFB000?style=for-the-badge&logo=apache&logoColor=white)
+![PDFPlumber](https://img.shields.io/badge/PDFPlumber-Text_Extraction-47A141?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 This repository contains the source code for a bilingual (French/English) document indexing and retrieval system applied to a corpus of 249 academic computer science papers. The project provides a critical evaluation comparing a traditional probabilistic lexical approach (BM25) against a semantic vector space approach (Word2Vec + Cosine Similarity).
 
