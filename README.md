@@ -22,7 +22,7 @@ The software pipeline is structured as follows:
 * representation.py: Local training of the Word2Vec model and Mean Pooling aggregation to generate dense 100 dimensional vectors.
 
 ### Phase 2: Search Engine and Evaluation
-* metadata.py: Document card extraction and structuring (titles, authors, file paths) to decouple the mathematical data from the user display.
+* metadata.py: Document card extraction and structuring (titles, languages, file paths) to decouple the mathematical data from the user display.
 * search_engine.py: Core query execution running both the BM25 probabilistic algorithm and a nearest neighbor search using cosine similarity.
 * app.py: Dynamic web user interface built with the Flask framework.
 * evaluate.py: Quantitative evaluation script measuring Precision, Recall, and F1-Score across validation test queries.
@@ -47,4 +47,4 @@ The empirical evaluation of the system highlighted the following global performa
 
 1. Dependencies: Install required libraries (Flask, pdfplumber, nltk, gensim, rank_bm25).
 2. Indexing: Run Phase 1 scripts to build the dense matrices and lexical index.
-3. Server: Run app.py to start the local web interface on port 5000.
+3. Server: Run server.py to start the local web interface on port 5000.
