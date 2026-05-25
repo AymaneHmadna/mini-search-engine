@@ -1,4 +1,4 @@
-# Mini Search Engine - NLP-Based Document Retrieval System
+# Mini Search Engine:NLP based document retrieval system
 
 This repository contains the source code for a bilingual (French/English) document indexing and retrieval system applied to a corpus of 249 academic computer science papers. The project provides a critical evaluation comparing a traditional probabilistic lexical approach (BM25) against a semantic vector space approach (Word2Vec + Cosine Similarity).
 
